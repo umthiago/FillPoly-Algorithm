@@ -56,6 +56,12 @@ No Windows PowerShell, ative o ambiente virtual:
 .venv\Scripts\Activate.ps1
 ```
 
+Instale as dependências:
+
+```bash
+pip install -r requirements.txt
+```
+
 ## Execução
 
 Execute:
